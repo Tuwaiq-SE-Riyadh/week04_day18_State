@@ -1,10 +1,3 @@
 ## State Lab
-
-* Create Calculator component that contains 2 Temperature Input
-(for inputting temperature in degrees Celsius or Fahrenheit) as
-shown below:
-![1](1.png)
-
-* When a user enters a value in either of the two TemperatureInput, the
-value in the other TemperatureInput should automatically change.
-
+-Result : 
+![image](https://user-images.githubusercontent.com/72529306/138876034-7709c3fa-3c81-4666-9358-318457fbb16a.png)
