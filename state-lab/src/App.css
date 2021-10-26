@@ -1,0 +1,21 @@
+.cel{
+  background-color:white;
+  /* justify-content: center;
+  align-items: center;
+  text-align: center; */
+  border: 1px solid #000000;
+  width: 50%;
+  /* background: #FFE8EF; */
+  padding: 3px;
+}
+
+.textB{
+  /* background: #CCA383; */
+padding: 6px;
+font-weight: bold;
+}
+
+.classA{
+  width: 90%;
+  height:2rem;
+}
